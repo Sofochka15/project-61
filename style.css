@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border: 1PX solid #888;
+    margin-top: 77px;
+    margin-left: 37px;
+}
+p{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    font-weight: 700;
+    color: red;
+}
+
